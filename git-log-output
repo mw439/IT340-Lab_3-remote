@@ -1,0 +1,31 @@
+commit 69ce768c61c0a86f86e8a72b2ad0bde0140a821e
+Author: MengChengWang <mw439@njit.edu>
+Date:   Sat Sep 20 18:09:26 2025 -0400
+
+    Revert "Added a new testfile with text"
+    
+    This reverts commit 7d6d232db0866dbf35be9b82e8e025f715b453ba.
+
+commit 7d6d232db0866dbf35be9b82e8e025f715b453ba
+Author: MengChengWang <mw439@njit.edu>
+Date:   Sat Sep 20 18:06:04 2025 -0400
+
+    Added a new testfile with text
+
+commit bcebc3dce73f2acc12a354b3fd0bd569df25d814
+Author: MengChengWang <mw439@njit.edu>
+Date:   Sat Sep 20 18:03:49 2025 -0400
+
+    Added a comment to hostname
+
+commit c491cb1ccf7247d7d2684b00cf8bc8426d1bd844
+Author: MengChengWang <mw439@njit.edu>
+Date:   Sat Sep 20 16:35:55 2025 -0400
+
+    Changes to os-release
+
+commit 4a47b5df5b72e2921d3fdcb2ff075a326a18237a
+Author: MengChengWang <mw439@njit.edu>
+Date:   Thu Sep 18 12:37:12 2025 -0400
+
+    Initial Commit
